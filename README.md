@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @SyleshSatyukt
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning: anything I can
-- 💞️ I’m looking to collaborate on: no please
-- 📫 How to reach me: not required
+- 👋 Hi, I’m @Sylesh
+
 
 <!---
 SyleshSatyukt/SyleshSatyukt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
